@@ -4,12 +4,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [https://hostelmanagement.free.nf](https://hostelmanagement.free.nf)
-
----
-
 ## ✨ Features
 
 - 📝 **Student Registration**
